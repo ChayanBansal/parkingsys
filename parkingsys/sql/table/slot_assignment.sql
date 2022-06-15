@@ -1,0 +1,6 @@
+-- CREATE TABLE slot_assignment
+-- (
+--     id INTEGER NOT NULL PRIMARY KEY AUTOINCREMENT, -- primary key column
+--     slot_id INTEGER NOT NULL REFERENCES slot (id),
+--     current_ticket_id INTEGER REFERENCES ticket (id)
+-- );
